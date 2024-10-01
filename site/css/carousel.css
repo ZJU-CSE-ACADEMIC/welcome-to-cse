@@ -1,0 +1,39 @@
+/* styles.css */
+
+* {
+  box-sizing: border-box;
+}
+
+.carousel {
+  position: relative;
+  max-width: 80%; /* 设置容器宽度为页面的 80% */
+  margin: auto; /* 居中显示 */
+  overflow: hidden; /* 隐藏超出容器的内容 */
+}
+
+.carousel-images {
+  display: flex;
+  transition: transform 0.5s ease; /* 平滑过渡效果 */
+}
+
+.carousel-images img {
+  flex: 0 0 auto; /* 每张图片占据固定宽度 */
+  height: auto;
+}
+
+.carousel-buttons {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.button {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
