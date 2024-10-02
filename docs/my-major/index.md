@@ -29,6 +29,8 @@
         <img src="img/2024wpc.jpg" alt="Image 2">
         <img src="img/2024jzm.jpg" alt="Image 3">
         <img src="img/2024xtq.jpg" alt="Image 4">
+        <img src="img/2024wzh.jpg" alt="Image 5">
+        <img src="img/2024wrk.jpg" alt="Image 6">
         <img src="img/2023sjy.png" alt="Image 7">
         <img src="img/2023fgf.png" alt="Image 8">
         <img src="img/2023txs.png" alt="Image 9">
