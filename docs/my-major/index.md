@@ -18,12 +18,47 @@
         <source src="video/2023zj.mp4" type="video/mp4">
         您的浏览器不支持该视频播放，请升级您的浏览器。
     </video>
+    <br>
+    <div style="font-size: 1em; font-weight: bold;">2018级本科生 忻铄</div>
+    <video style="width: 80%; height: auto; display: block; margin: auto;" controls loop>
+        <source src="video/2023xs.mp4" type="video/mp4">
+        您的浏览器不支持该视频播放，请升级您的浏览器。
+    </video>
 </div>
 
 ## 学长眼中的“自动化”
+<div class="image-gallery">
+    <img src="img/2024czt.jpg" alt="Image 1">
+    <img src="img/2024wpc.jpg" alt="Image 2">
+    <img src="img/2024jzm.jpg" alt="Image 3">
+    <img src="img/2024xtq.jpg" alt="Image 4">
+    <img src="img/2024wzh.jpg" alt="Image 5">
+    <img src="img/2024wrk.jpg" alt="Image 6">
+    <img src="img/2024ybh.jpg" alt="Image 7">
+    <img src="img/2023sjy.png" alt="Image 8">
+    <img src="img/2023fgf.png" alt="Image 9">
+    <img src="img/2023txs.png" alt="Image 10">
+    <img src="img/2023xsj.png" alt="Image 11">
+    <img src="img/2023zyj.png" alt="Image 12">
+</div>
 
+<style>
+    .image-gallery {
+        display: flex;
+        flex-direction: column; 
+        align-items: center;
+        margin: 20px;
+    }
 
-<div class="carousel">
+    .image-gallery img {
+        max-width: 80%; 
+        margin: 10px 0; 
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+</style>
+
+<!-- <div class="carousel">
     <div class="carousel-images" id="carouselImages">
         <img src="img/2024czt.jpg" alt="Image 1">
         <img src="img/2024wpc.jpg" alt="Image 2">
@@ -31,11 +66,12 @@
         <img src="img/2024xtq.jpg" alt="Image 4">
         <img src="img/2024wzh.jpg" alt="Image 5">
         <img src="img/2024wrk.jpg" alt="Image 6">
-        <img src="img/2023sjy.png" alt="Image 7">
-        <img src="img/2023fgf.png" alt="Image 8">
-        <img src="img/2023txs.png" alt="Image 9">
-        <img src="img/2023xsj.png" alt="Image 10">
-        <img src="img/2023zyj.png" alt="Image 11">
+        <img src="img/2024ybh.jpg" alt="Image 7">
+        <img src="img/2023sjy.png" alt="Image 8">
+        <img src="img/2023fgf.png" alt="Image 9">
+        <img src="img/2023txs.png" alt="Image 10">
+        <img src="img/2023xsj.png" alt="Image 11">
+        <img src="img/2023zyj.png" alt="Image 12">
     </div>
     <div class="carousel-buttons">
         <button class="button" onclick="prevSlide()">❮</button>
@@ -85,4 +121,4 @@
     // 每3秒切换一次图片
     setInterval(nextSlide, 3000); 
     setImageWidth(); // 初始化设置图片宽度
-</script>
+</script> -->

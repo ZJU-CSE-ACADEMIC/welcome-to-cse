@@ -8,6 +8,21 @@ comments: false
 
 在专业节期间，我们将举办**“中控杯”控制科技文化节开幕式暨专业讲座、控制学院实验室参观**等一系列活动，欢迎同学们参加！
 
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 20px;">
+        <img src="img/official_wechat.jpg" alt="浙江大学控制学院官方公众号" style="width: 150px;">
+        <p>浙江大学控制学院官方公众号</p>
+    </div>
+    <div style="display: inline-block; margin: 20px;">
+        <img src="img/youth_wechat.jpg" alt="浙大控制青年公众号" style="width: 150px;">
+        <p>浙大控制青年公众号</p>
+    </div>
+    <div style="display: inline-block; margin: 20px;">
+        <img src="img/alumni_wechat.jpg" alt="浙江大学控制学院校友分会公众号" style="width: 150px;">
+        <p>浙江大学控制学院校友分会公众号</p>
+    </div>
+</div>
+
 ### 学院介绍
 
 <div style="text-align: center;">
@@ -31,3 +46,5 @@ comments: false
 <img src="img/qrcode.jpg" alt="QQ群二维码" style="width: 20%; display: block; margin-left: 60px;">
 
 扫描上方二维码，加入新生咨询群！
+
+---
