@@ -7,19 +7,19 @@
 
 
 <div style="text-align: center;">
-    <div style="font-size: 1em; font-weight: bold;">2020级本科生 朱少廷</div>
+    <div style="font-size: 1em; font-weight: bold;">2020级本科生 朱少廷（现在清华大学攻读博士）</div>
     <video style="width: 80%; height: auto; display: block; margin: auto;" controls loop>
         <source src="video/2023zst.mp4" type="video/mp4">
         您的浏览器不支持该视频播放，请升级您的浏览器。
     </video>
     <br>
-    <div style="font-size: 1em; font-weight: bold;">2023级研究生 周靳</div>
+    <div style="font-size: 1em; font-weight: bold;">2019级本科生、2023级研究生 周靳</div>
     <video style="width: 80%; height: auto; display: block; margin: auto;" controls loop>
         <source src="video/2023zj.mp4" type="video/mp4">
         您的浏览器不支持该视频播放，请升级您的浏览器。
     </video>
     <br>
-    <div style="font-size: 1em; font-weight: bold;">2018级本科生 忻铄</div>
+    <div style="font-size: 1em; font-weight: bold;">2018级本科生、2022级研究生 忻铄</div>
     <video style="width: 80%; height: auto; display: block; margin: auto;" controls loop>
         <source src="video/2023xs.mp4" type="video/mp4">
         您的浏览器不支持该视频播放，请升级您的浏览器。
