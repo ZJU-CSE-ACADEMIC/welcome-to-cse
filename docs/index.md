@@ -24,7 +24,14 @@ comments: false
 </div>
 
 ### 学院介绍
+<div style="text-align: center;">
+    <video style="width: 40%; height: auto; display: block; margin: auto;" controls loop>
+        <source src="video/intro2.mp4" type="video/mp4">
+        您的浏览器不支持该视频播放，请升级您的浏览器。
+    </video>
+</div>
 
+### 自动化专业介绍
 <div style="text-align: center;">
     <video style="width: 80%; height: auto; display: block; margin: auto;" controls loop>
         <source src="video/cse_intro.mp4" type="video/mp4">
