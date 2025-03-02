@@ -2,17 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zju-cse-academic.github.io/welcome-to-cse/</loc>
-         <lastmod>2024-10-16</lastmod>
+         <lastmod>2025-03-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://zju-cse-academic.github.io/welcome-to-cse/curriculum/</loc>
-         <lastmod>2024-10-16</lastmod>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/contributing/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/cse_fysc/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/template/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/major_basic/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/major_basic/example/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/major_elective/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/major_elective/example/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/major_mandatory/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/major_mandatory/example/</loc>
+         <lastmod>2025-03-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zju-cse-academic.github.io/welcome-to-cse/my-major/</loc>
-         <lastmod>2024-10-16</lastmod>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/others/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/practice/</loc>
+         <lastmod>2025-03-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zju-cse-academic.github.io/welcome-to-cse/practice/example/</loc>
+         <lastmod>2025-03-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
