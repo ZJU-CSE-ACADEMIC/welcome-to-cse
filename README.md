@@ -12,7 +12,7 @@
 
 ## 🚀 快速导航
 
-- 🔗 [网站页面](https://zju-cse-academic.github.io/welcome-to-cse/)
+- 🔗 [网站主页](https://zju-cse-academic.github.io/welcome-to-cse/)
 - 🔗 [GitHub 仓库](https://github.com/ZJU-CSE-ACADEMIC/welcome-to-cse/tree/master)
 
 ## 🔨 未来建设计划
